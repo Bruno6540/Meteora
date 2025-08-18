@@ -1,0 +1,35 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+.verde-limao{
+    color: #daff01;
+}
+
+.botao-lilas {
+    background-color: #9353ff;
+}
+
+.posicao {
+    top: 50%;
+}
+
+@media(min-width: 767px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+    .posicao {
+        top: 35%;
+    }
+
+}
